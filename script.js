@@ -23,7 +23,7 @@ function isValidPassword (input) {}
 
 // 4:
 const birdList = ["duck", "duck", "robin", "turkey", "pigeon", "duck", "goose", "pigeon", "pigeon", "robin"]
-// Takes in a list of birds and a bird's name, and returns a count of that bird. If two birds are tied for most common, return either one.
+// Takes in a list of birds and a bird's name, and returns a count of that bird.
 // for example: birdCounter(birdList, "duck") should return 3.
 
 function birdCounter (birds, birdName) {}
